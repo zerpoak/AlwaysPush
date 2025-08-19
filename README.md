@@ -53,3 +53,8 @@ By using this plugin, you agree to the following:
 - Do not discuss Vencord or Vencord plugins in public Discord servers.
 - This plugin is not officially supported by the Vencord developers. Do not bother them about it.
 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
